@@ -273,7 +273,7 @@ const RoomPage = () => {
           <a href="https://www.instagram.com/irisclanetowerinc/"><img src={insta} alt="" width="27px" /></a>
           </div>
           <div className="linkedin">
-          <a href=""><img src={linkedin} alt="" width="31px" /></a>
+          <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F"><img src={linkedin} alt="" width="31px" /></a>
           </div>
           <div className="copyright">
             <p>Copyright © 2024 Irisclane Tower Inc. All rights reserved.</p>
