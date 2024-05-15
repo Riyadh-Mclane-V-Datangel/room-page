@@ -1,0 +1,642 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat-Light'), url('./fonts/Montserrat-Medium.ttf') format('truetype');
+
+  font-family: 'Ibarra Real Nova';
+  src: local('IbarraRealNova-Medium'), url('./fonts/IbarraRealNova-Medium.ttf') format('truetype');
+
+  font-family: 'InterTight';
+  src: local('InterTight-Medium'), url('./fonts/InterTight-Medium.ttf') format('truetype');
+}
+
+
+body, html {
+  font-family: 'Montserrat', sans-serif;
+  height: 100%;
+  margin: 0;
+  padding: 0; 
+  font-weight: 500;
+}
+
+.ibarra-real nova-uniquifier {
+  font-family: "Ibarra Real Nova", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+.montserrat-uniquifier {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.inknut-antiqua-regular {
+  font-family: "Inknut Antiqua", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body {
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  min-width: 100%;
+}
+
+.logo {
+  display: flex;
+  margin-bottom: 20px;
+  margin-top: -35px;
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  height: 135px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure the navbar is above other content */
+  margin-top: -55px;
+  background-color: #87CEEB;
+  box-shadow: 1px 3px 10px 5px rgba(0, 0, 0, 0.288);
+}
+
+.icons li {
+  list-style: none;
+  display: inline;
+  padding: 8px;
+}
+
+.icons {
+  margin-top: -190px;
+  margin-left: 75%;
+  cursor: pointer;
+}
+
+.container1 img {
+  padding: 100px 0 0 0;
+  box-shadow: 0 2px 15px 0;
+
+}
+
+.eco-container h1 {
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  border-bottom: 1px solid black; 
+  margin: 10px auto; 
+  width: 70%;
+  font-size:50px;
+  font-weight: 450;
+}
+
+.eco-container p {
+  padding-top: 10px;
+  width: 300px;
+  margin: auto;
+  font-size: 125%;
+}
+
+.eco-container {
+  width: 500px;
+  height: 250px;
+  margin-top: -300px;
+  margin-left: 80px;
+  text-align: center;
+  box-sizing: border-box; 
+  background-color: rgba(187, 173, 173, 0.582);
+  position: absolute;
+}
+
+.slide2{
+  margin-top: -95px;
+  padding-left: 50px;
+  background-color: rgba(240, 248, 255, 0.116);
+}
+
+.eco-card{
+  border-radius: 5px;
+  width: 780px;
+  height: 500px;
+  margin-top: -520px;
+  margin-left: 730px;
+  box-sizing: border-box; 
+  background-color: #85C1E9;
+  box-shadow: -15px 15px 5px 1px rgba(128, 128, 128, 0.438);float: right; 
+  width: 40%; 
+  padding-left: 5%;
+  padding-right: 5%; 
+
+}
+
+.eco-card h1 {
+  text-align: center;
+  margin-top: 55px;
+  border-bottom: 1px solid black; 
+  margin-left: 120px;
+  width: 60%;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 450;
+  font-size: 50px;
+}
+
+.eco-P1{
+  text-align: center;
+  margin-top: 20px;
+  width: 80%;
+  margin-left: 40px;
+  font-size: 15px;
+}
+
+.eco-P2{
+  text-align: center;
+  margin-top: 30px;
+  width: -99%;
+  margin-left: 40px;
+  font-size: 15px;
+}
+
+.area{
+  margin-top: -35px;
+  text-align: center;
+  font-size: large;
+  margin-left: 60px;
+}
+
+.eco-inquire{
+  background-color: #2233a1;
+  width: 500px;
+  height: 50px;
+  border-radius: 40px;  
+  margin-top: 10%;
+  cursor: pointer;
+  margin-left: -48px;
+ 
+   
+}
+.eco-inquire h2{
+  margin-left: 80px;
+  border-bottom: 0;
+  color: aliceblue;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  padding-left: 110px;
+  padding-top: 10px;
+  font-size: 30px;
+}
+
+.container3{
+  margin-top: 40px;
+  margin-bottom: 35px;
+  box-shadow: 0 2px 15px 0;
+  height: 500px;
+  width: 50%;
+}
+
+.calm-container {
+  width: 500px;
+  height: 250px;
+  margin-top: -330px;
+  margin-left: 80px;
+  text-align: center;
+  box-sizing: border-box; 
+  background-color: rgba(187, 173, 173, 0.582);
+  position: absolute;
+}
+.calm-container h1{
+  
+    margin-top: -90px;
+    margin-left: -50px;
+    border: none;
+    border-bottom: 1px solid black; 
+    margin: 10px auto; 
+    width: 70%;
+    font-size:30px;
+    font-weight: 450;
+    }
+  
+.area1{
+  margin-top: -28px;
+ text-align: center;
+font-size: large;
+margin-left: 20px;
+    }
+
+.calm-container p {
+  font-family: "Montserrat", sans-serif;
+  padding-top: 10px;
+  width: 440px;
+  margin: auto;
+  font-size: 120%;
+}
+
+.calm-card{
+  border-radius: 5px;
+  height: 520px;
+  margin-top: 40px;
+  text-align: center;
+  box-sizing: border-box; 
+  background-color: #85C1E9;
+  width: 40%; 
+  padding-left: 5%; 
+  padding-right: 5%; 
+  box-shadow: 10px 10px 5px 6px rgba(110, 110, 110, 0.555);
+  
+}
+
+.calm-card h1 {
+  text-align: center;
+  border-bottom: 1px solid black; 
+  margin-left: 60px;
+  width: 70%;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 450;
+  font-size: 40px;
+  padding-top: 50px;
+}
+
+.calm-P1{
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  margin-top: 30px;
+  width: 90%;
+  margin-left: -10px;
+  font-size: 15px;
+  font-weight: 520;
+}
+
+.calm-P2{
+  text-align: center;
+  margin-top: 30px;
+  width: 90%;
+  margin-left: -10px;
+  font-size: 15px;
+  font-weight: 520;
+}
+.calm-P3{
+  text-align: center;
+  margin-top: 25px;
+  width: 90%;
+  margin-left: -10px;
+  font-size: 15px;
+  font-weight: 520;
+}
+
+.calm-inquire{
+  background-color: #2233a1;
+  width: 500px;
+  height: 50px;
+  border-radius: 40px;  
+  margin-top: -10px;
+  cursor: pointer;
+  margin-left: -50px;
+  box-shadow: 10px 10px 10px 10px rgba(158, 212, 229, 0.637);
+}
+.calm-inquire h2{
+  margin-left: -80px;
+  border-bottom: 0;
+  color: aliceblue;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  padding-left: 85px;
+  padding-top: 9px;
+  font-size: 30px;
+}
+
+.slide4{
+  border-radius: 5px;
+  width: 920px;
+  height: 560px;
+  margin-top: -740px;
+  margin-left: 55%;
+  width: 50%; 
+  padding-left: 5%;
+  padding-right: 10%; 
+  box-sizing: border-box; 
+}
+
+.container5{
+  margin-top: 20px;
+  box-shadow: 0 2px 15px 0;
+}
+
+.cove-container {
+  margin-top: -400px;
+  margin-left: 70px;
+  width: 550px;
+  height: 260px;
+  text-align: center;
+  box-sizing: border-box; 
+  background-color: rgba(187, 173, 173, 0.582);
+  position: absolute;
+}
+
+.cove-container h1 {
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  border-bottom: 1px solid black; 
+  margin: 10px auto; 
+  width: 70%;
+  font-size:40px;
+  font-weight: 450;
+}
+
+.cove-container p {
+  width: 420px;
+  padding-top: 25px;
+  margin: auto;
+  font-size: 130%;
+}
+
+
+.slide6{
+  border-radius: 5px;
+  height: 360%;
+  margin-top: -940px;
+  margin-left: 55%;
+  width: 30%; 
+  padding-left: 5%;
+  padding-right: 10%; 
+  box-sizing: border-box; 
+}
+.container7{
+  margin-left: 60%;
+  margin-top: -480px;
+  border-radius: 5px;
+  width: 520px;
+  height: 560px;
+  text-align: center;
+  box-sizing: border-box; 
+  background-color: #85C1E9;
+  width: 40%; 
+  padding-left: 5%; 
+  padding-right: 5%; 
+  box-shadow: -15px 15px 5px 1px rgba(128, 128, 128, 0.438); 
+}
+
+.container7 h1 {
+  text-align: center;
+  margin-top: -15px;
+  border-bottom: 1px solid black; 
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 450;
+  font-size: 40px;
+  padding-top: 50px;
+}
+
+.cove-area{
+  margin-top: -28px;
+  text-align: center;
+  font-size: large;
+}
+
+.cove-P1{
+  text-align: center;
+  margin-top: 30px;
+  width: 100%;
+  margin-left: -35px;
+  font-size: 15px;
+  font-weight: 520;
+}
+
+.cove-P2{
+  text-align: center;
+  margin-top: 20px;
+  width: 100%;
+  margin-left: -35px;
+  font-size: 15px;
+  font-weight: 520;
+}
+
+.cove-P3{
+  text-align: center;
+  margin-top: 20px;
+  width: 100%;
+  margin-left: -35px;
+  font-size: 15px;
+  font-weight: 520;
+}
+
+.cove-P4{
+  text-align: center;
+  margin-top: 20px;
+  width: 100%;
+  margin-left: -35px;
+  font-size: 15px;
+  font-weight: 520;
+}
+
+.cove-inquire{
+  background-color: #2233a1;
+  width: 500px;
+  height: 50px;
+  border-radius: 40px;  
+  margin-top: 40px;
+  cursor: pointer;
+  margin-left: -50px;
+  box-shadow: 10px 10px 10px 10px rgba(158, 212, 229, 0.637);
+}
+
+.cove-inquire h2{
+  margin-left: -80px;
+  border-bottom: 0;
+  color: aliceblue;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  padding-left: 90px;
+  padding-top: 9px;
+  font-size: 30px;
+}
+
+.footer{
+  background-color: #cbccce;
+  height: 300px;
+}
+
+.footerlogo{
+  margin-top: -30px;
+  margin-left: 80px;
+}
+
+.footer h4{
+  margin-top: -110px;
+  margin-left: 110px;
+  font-weight: 100;
+  font-size: large;
+  font-family: "Ibarra Real Nova", serif;
+}
+
+.twitter{
+  margin-left: 105px;
+  padding: 10px, 0 0 10px;
+  cursor: pointer;
+}
+.fb{
+  margin-left: 135px;
+  margin-top: -42px;
+  padding: 10px;
+  cursor: pointer;
+}
+.insta{
+  margin-left: 185px;
+  margin-top: -55px;
+  padding: 10px;
+  cursor: pointer;
+}
+.linkedin{
+  margin-left: 228px;
+  margin-top: -53px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.copyright{ 
+  text-align: center;
+  font-size: small;
+  font-family: "InterTight";
+  margin-top: 50px;
+}
+
+/* Add this CSS at the end of your existing CSS */
+
+/* Add this CSS to your existing App.css file */
+
+/* Form Container */
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80%;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  font-family: 'Montserrat', sans-serif;
+  z-index: 1001; /* Ensure the close button appears above other content */
+
+}
+
+.form-content {
+  background-color: white;
+  position: relative;
+  padding: 40px; /* Increased padding for more space */
+  border-radius: 10px; 
+  width: 500px; /* Increased width */
+  max-height: 80%; /* Set maximum height to 80% of viewport height */
+  overflow-y: auto; /* Enable vertical scrolling */
+  z-index: 1002; /* Ensure the form content appears above the semi-transparent background */
+}
+.eco-title {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 20px;
+  font-family: 'Montserrat', sans-serif;
+  
+}
+.close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  z-index: 1003; /* Ensure the close button appears above other content */
+}
+/* Input Field */
+.input-field {
+  margin-bottom: 20px; /* Add margin-bottom to create space between input fields */
+}
+
+/* Label */
+.input-field label {
+  display: block;
+  margin-bottom: 5px; /* Add margin-bottom to create space between label and input field */
+}
+/* Payment Options */
+.payment-option {
+  margin-bottom: 20px; /* Add margin-bottom to create space between payment options and submit button */
+}
+
+/* Payment Option Label */
+.payment-option label {
+  margin-right: 10px; /* Add margin-right to create space between radio buttons and labels */
+}
+
+/* Submit Button */
+.submit-btn {
+  background-color: #87CEEB; /* Green */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: block;
+  margin: 0 auto; /* This centers the button horizontally */
+}
+
+.submit-btn:hover {
+  background-color: #87CEEB; /* Darker green on hover */
+}
+
+/* Close Button */
+.close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+.form-container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  font-family: 'Montserrat', sans-serif;
+}
+.container1, .container5 {
+  position: relative;
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+}
+
+.slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.slide.active {
+  opacity: 1;
+}
+
+.container3 {
+  position: relative;
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+}
+
+.container3 .slide2 {
+  position: absolute;
+  top: 0;
+  left: -50px;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.container3 .slide2.active {
+  opacity: 1;
+}

@@ -1,0 +1,8 @@
+[0226/053016.999:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(77,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(99,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0226/053017.015:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-00000237F3450030]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0226/053017.015:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-00000237F3450030]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0226/053017.030:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-00000237F3450030]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0226/053017.030:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-00000237F3450030]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
