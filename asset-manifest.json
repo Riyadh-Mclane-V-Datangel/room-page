@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/room-page/static/css/main.dd87e808.css",
+    "main.js": "/room-page/static/js/main.e5fbd1a8.js",
+    "static/js/453.7048bca2.chunk.js": "/room-page/static/js/453.7048bca2.chunk.js",
+    "static/media/five.png": "/room-page/static/media/five.a8bde3a3dc2be44fecb9.png",
+    "static/media/six.png": "/room-page/static/media/six.03973ffc8a7ba6b5b9b0.png",
+    "static/media/three.png": "/room-page/static/media/three.96c2548b6fb467a5ef97.png",
+    "static/media/14.png": "/room-page/static/media/14.75ab91d532469c08db7c.png",
+    "static/media/5thslide.png": "/room-page/static/media/5thslide.8890d9cb6c8a8b3239e4.png",
+    "static/media/15.png": "/room-page/static/media/15.209b96251bd2dbd6a64a.png",
+    "static/media/1slide.png": "/room-page/static/media/1slide.e6f12cd72caf5c1ff4de.png",
+    "static/media/13.png": "/room-page/static/media/13.a1aff364b99895433c54.png",
+    "static/media/one.png": "/room-page/static/media/one.a1aff364b99895433c54.png",
+    "static/media/four.png": "/room-page/static/media/four.f99d03b0b0e07ace41fb.png",
+    "static/media/two.png": "/room-page/static/media/two.8551692bebc99b75fc2b.png",
+    "static/media/3rdslide.png": "/room-page/static/media/3rdslide.e6c8b26823b46e78338b.png",
+    "static/media/InterTight-Medium.ttf": "/room-page/static/media/InterTight-Medium.a046b2b6656b8304f5df.ttf",
+    "static/media/Montserrat-Medium.ttf": "/room-page/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/Montserrat-Light.ttf": "/room-page/static/media/Montserrat-Light.7179b7d2ac9b599db5f9.ttf",
+    "static/media/twitter.png": "/room-page/static/media/twitter.5da3240f57fbee851c76.png",
+    "static/media/irislogo.png": "/room-page/static/media/irislogo.e6af5fe050b5ffd5b4ee.png",
+    "static/media/6thslide.png": "/room-page/static/media/6thslide.ef1533e675b0f303ea90.png",
+    "static/media/heart.png": "/room-page/static/media/heart.e6e6843e0db3346180d6.png",
+    "static/media/2slide.png": "/room-page/static/media/2slide.bd358243e8e11f1d105b.png",
+    "static/media/IbarraRealNova-Medium.ttf": "/room-page/static/media/IbarraRealNova-Medium.06570c893dda71d137e8.ttf",
+    "static/media/4thslide.png": "/room-page/static/media/4thslide.c1de0ded0c675fba6b3c.png",
+    "static/media/profile.png": "/room-page/static/media/profile.19b60b646172bb0cfcb9.png",
+    "static/media/bell.png": "/room-page/static/media/bell.3b21fa88702ee277c748.png",
+    "static/media/email.png": "/room-page/static/media/email.a4644ac972bbd75551bc.png",
+    "static/media/fb.png": "/room-page/static/media/fb.4620d265df21c5c1ab3f.png",
+    "static/media/insta.png": "/room-page/static/media/insta.10e464230732d46c62b0.png",
+    "index.html": "/room-page/index.html",
+    "main.dd87e808.css.map": "/room-page/static/css/main.dd87e808.css.map",
+    "main.e5fbd1a8.js.map": "/room-page/static/js/main.e5fbd1a8.js.map",
+    "453.7048bca2.chunk.js.map": "/room-page/static/js/453.7048bca2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd87e808.css",
+    "static/js/main.e5fbd1a8.js"
+  ]
+}
